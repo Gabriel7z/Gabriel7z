@@ -31,7 +31,7 @@ Sou um desenvolvedor em constante aprendizado sobre os temas relacionados a tecn
 ## 🔗 Vamos nos conectar / Let's connect
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 20px;">
-    <a href="https://www.linkedin.com/in/leandro-sousa-de-jesus-885a48405/" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-ferreira-516b531aa/" target="_blank">
         <img 
             src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
